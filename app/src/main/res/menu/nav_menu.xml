@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Карта"
+        android:icon="@drawable/ic_map"
+        android:id="@+id/mapMenu"/>
+    <item android:title="Справочник"
+        android:icon="@drawable/ic_global_guide_weed"
+        android:id="@+id/globalGuideMenu"/>
+    <item android:title="Добавить"
+        android:icon="@drawable/ic_add"
+        android:id="@+id/addWeedMenu"/>
+    <item android:title="Мой справочник"
+        android:icon="@drawable/ic_my_guide_weed"
+        android:id="@+id/myGuideMenu" />
+    <item android:title="Выход"
+        android:icon="@drawable/ic_logout"
+        android:id="@+id/logoutMenu"/>
+</menu>

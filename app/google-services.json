@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "179741323981",
+    "project_id": "weedbook-f968f",
+    "storage_bucket": "weedbook-f968f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179741323981:android:8aefeb8fc7bcda9cfaaf84",
+        "android_client_info": {
+          "package_name": "com.example.weedbook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179741323981-rn5aal1s41iit9guuuuhjfrjfc6i67mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqAEYWCfji6I34MzajTsI3QbtZTUIv2i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179741323981-rn5aal1s41iit9guuuuhjfrjfc6i67mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179741323981:android:67a607bdfb70f021faaf84",
+        "android_client_info": {
+          "package_name": "com.example.weedbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179741323981-rn5aal1s41iit9guuuuhjfrjfc6i67mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqAEYWCfji6I34MzajTsI3QbtZTUIv2i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179741323981-rn5aal1s41iit9guuuuhjfrjfc6i67mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

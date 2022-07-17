@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">WeedBook_App</string>
+    <string name="authorization_text">Авторизация</string>
+    <string name="login_text">Email</string>
+    <string name="pass_text">Пароль</string>
+    <string name="hint_email">Введите email</string>
+    <string name="hint_pass">Введите пароль</string>
+    <string name="sing_in_text">Войти</string>
+    <string name="sing_in_anonymous_text">Войти как гость</string>
+    <!-- Нижнее меню -->
+    <string name="add_weed">Добавить сорняк</string>
+    <string name="global_guide">Общий справочник</string>
+    <string name="my_guide">Мои сорняки</string>
+    <string name="map">Карта</string>
+    <!-- Страница добавления сорной растительности -->
+    <string name="photo_weed_description">Фотография сорняка</string>
+    <string name="photo_text">Добавить фото</string>
+    <string name="description_gallery_text">Добавить фото из галереи</string>
+    <string name="description_camera_text">Сфотографировать и добавить фото</string>
+    <string name="name_weed_text">Название</string>
+    <string name="hint_name_weed">Введите название</string>
+    <string name="name_weed_lat_text">Название (лат.)</string>
+    <string name="hint_name_weed_lat">Введите название (лат.)</string>
+    <string name="latitude_text">Широта</string>
+    <string name="longitude_text">Долгота</string>
+    <string name="hint_latitude">Введите широту</string>
+    <string name="hint_longitude">Введите долготу</string>
+    <string name="area_text">Регион</string>
+    <string name="hint_area">Введите регион</string>
+    <string name="address_text">Адрес</string>
+    <string name="hint_address">Введите адрес</string>
+    <string name="description_address_text">Определить адрес</string>
+    <string name="culture_text">Культура</string>
+    <string name="hint_culture">Выберете культуру</string>
+    <string name="coating_text">Проективное покрытие</string>
+    <string name="hint_coating">Выберете покрытие</string>
+    <string name="chemical_text">Химикаты</string>
+    <string name="hint_chemical">Выберете химикат</string>
+    <string name="date_text">Дата обработки</string>
+    <string name="hint_date">Введите дату</string>
+    <string name="efficiency_text">Эффектив. применения</string>
+    <string name="hint_efficiency">Выберете эффективность</string>
+    <string name="comment_text">Комментарий</string>
+    <string name="hint_comment">Введите комментарий</string>
+    <string name="add_weed_button">Добавить</string>
+    <string name="update_weed_button">Обновить</string>
+    <!--Список растительности-->
+    <string name="user_photo_description">Пентаграмма пользователя</string>
+    <string name="name_user_text">Пользователь</string>
+    <string name="name_guest_text">Гость</string>
+    <string name="date_add_text">Дата добавления</string>
+    <string name="edit_description">Редактировать страницу</string>
+    <string name="more_button">Подробнее</string>
+    <!--Список растительности-->
+    <string name="latitude_text_page">Широта:</string>
+    <string name="longitude_text_page">Долгота:</string>
+    <string name="area_text_page">Регион:</string>
+    <string name="address_text_page">Адрес:</string>
+    <string name="culture_text_page">Культура:</string>
+    <string name="coating_text_page">Проективное покрытие:</string>
+    <string name="chemical_text_page">Химикаты:</string>
+    <string name="date_text_page">Дата обработки:</string>
+    <string name="efficiency_text_page">Эффектив. применения:</string>
+    <string name="comment_text_page">Комментарий:</string>
+    <string name="result_text_page">Результат</string>
+    <string name="search_text">Поиск</string>
+    <string name="sort_text">Сортировка:</string>
+    <string name="sort_admin_area">Выберете регион</string>
+    <!--Нижнее меню-->
+    <string name="map_menu">Карта</string>
+    <string name="global_weed_menu">Сорянки</string>
+    <string name="add_menu">Добавить</string>
+    <string name="my_weed_menu">Мои сорняки</string>
+    <string name="exit_app_menu">Выход</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

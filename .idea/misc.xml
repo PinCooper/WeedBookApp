@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout-land/activity_main.xml" value="0.31393298059964725" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout-land/fragment_add_weed.xml" value="0.31393298059964725" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout-land/fragment_update_page.xml" value="0.31040564373897706" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout/fragment_add_weed.xml" value="0.1675925925925926" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout/fragment_map.xml" value="0.17806484295845998" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout/fragment_page_weed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Back/WeedBookApp/app/src/main/res/layout/fragment_update_page.xml" value="0.34148550724637683" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/drawable/bg_round.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1145" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/drawable/button_shape_circle.xml" value="0.3675" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/drawable/ic_location_green.xml" value="0.1335" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/drawable/ic_location_red.xml" value="0.1335" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/drawable/style_spinner.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout-land/fragment_add_weed.xml" value="0.14947916666666666" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout-land/fragment_update_page.xml" value="0.31040564373897706" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/activity_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/admin_area_dialog.xml" value="0.271286231884058" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/custom_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/custom_info_window.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/custom_single_image.xml" value="0.18802083333333333" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/fragment_add_weed.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/fragment_global_guide.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/fragment_map.xml" value="0.17806484295845998" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/fragment_my_guide.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/fragment_page_weed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/fragment_update_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/item_local.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/read_layout.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/layout/style_spinner.xml" value="0.17890625" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/menu/search_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/Test/WeedBookApp/app/src/main/res/xml/file_path.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/layout/activity_guide.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/layout/fragment_add_weed.xml" value="0.33" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/layout/fragment_global_guide.xml" value="0.3582427536231884" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/layout/fragment_map.xml" value="0.3582427536231884" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/layout/fragment_my_guide.xml" value="0.3582427536231884" />
+        <entry key="..\:/Android_Projects/WeedBookApp/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

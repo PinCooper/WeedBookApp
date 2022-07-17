@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="153dp"
+        android:layout_height="94dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15sp"
+        app:srcCompat="@drawable/logo_app" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutAuthorization"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_marginHorizontal="45sp"
+        android:layout_marginTop="5sp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/authorizationText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="3sp"
+            android:fontFamily="@font/roboto_black"
+            android:text="Авторизация"
+            android:textColor="@color/authorization_color"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/emailText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="3sp"
+            android:layout_marginTop="15sp"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/login_text"
+            android:textColor="@color/green" />
+
+        <EditText
+            android:id="@+id/emailInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/hint_email"
+            android:inputType="textEmailAddress"
+            android:minHeight="48sp" />
+
+        <TextView
+            android:id="@+id/passText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="3sp"
+            android:layout_marginTop="15sp"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/pass_text"
+            android:textColor="@color/green" />
+
+        <EditText
+            android:id="@+id/passInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="@string/hint_pass"
+            android:inputType="textPassword"
+            android:minHeight="48dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutAuthorizationButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/linearLayoutAuthorization"
+        android:layout_marginTop="10sp"
+        android:layout_marginHorizontal="45sp">
+
+        <Button
+            android:id="@+id/buttonSingIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="10sp"
+            android:fontFamily="@font/roboto_black"
+            android:backgroundTint="@color/green"
+            android:onClick="onClickSingIn"
+            android:text="@string/sing_in_text" />
+
+        <Button
+            android:id="@+id/buttonSingInAnonymous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10sp"
+            android:fontFamily="@font/roboto_black"
+            android:backgroundTint="@color/red"
+            android:onClick="onClickSingInAnonymous"
+            android:layout_weight="1"
+            android:text="@string/sing_in_anonymous_text" />
+    </LinearLayout>
+</RelativeLayout>
